@@ -1,0 +1,15 @@
+From: Apple ID <security@appleid-lock.com>
+Subject: Urgent: Your Apple ID has been locked
+
+Dear Customer,
+
+We’ve noticed suspicious activity on your Apple ID. Your account has been temporarily locked.
+
+To restore your access, please verify your account:
+
+[Verify Account Now]
+
+If we don’t hear from you within 24 hours, your account will be permanently suspended.
+
+Thank you,
+Apple Security
